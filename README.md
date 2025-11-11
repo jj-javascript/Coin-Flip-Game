@@ -2,6 +2,9 @@
 
 - An application that lets users guess what the result of a coin flip will be and wager on it.
 
+## [Live Demo](https://coin-flip-game-1.onrender.com/)
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
